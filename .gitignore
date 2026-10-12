@@ -1,0 +1,12 @@
+# Jev response cache and Python artifacts
+.jev_cache/
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+
+# Credentials must never be committed
+*_key.txt
+.env
+.env.*
