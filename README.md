@@ -1,6 +1,6 @@
 # BLADE: Blame Localization via Audited Dependency Evidence
 
-Code for the paper *BLADE: Dependency Tracing Is Not Enough for Failure Attribution in LLM Multi-Agent Systems*.
+Code for the paper *BLADE: Auditing Information Use for Failure Attribution in LLM Multi-Agent Systems*.
 
 Given the task and the recorded trajectory of a failed multi-agent run, BLADE identifies the decisive error step
 and the responsible agent, without access to a reference answer. A dependency between two steps shows where
